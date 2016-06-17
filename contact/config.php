@@ -1,4 +1,4 @@
 <?php
 // To
-define("WEBMASTER_EMAIL", 'babariaashish@gmail.com');
+define("WEBMASTER_EMAIL", 'name@email.com');
 ?>
