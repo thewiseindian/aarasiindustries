@@ -139,7 +139,7 @@ header.smaller .Navigation li { height: 60px; }
 	.About_sec { padding: 115px 0px 88px 0px ; width: 100%; overflow: hidden; }
 	.About_sec .Center { max-width: 1100px; margin: auto; overflow: hidden; text-align: center; }
 	.About_sec h2 { font-size: 56px; color: #000; font-family: 'Oswald', sans-serif; font-weight: 400; margin: 0px; text-transform: uppercase; line-height: 60px; letter-spacing: -0.4px; }
-	.About_sec p { padding: 24px 0px 35px 0px; font-size: 14px; color: #979797; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
+	.About_sec p { padding: 24px 0px 35px 0px; font-size: 14px; color: #525252; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
 	.About_sec .Line { border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto; }
 	.About_sec .Tabside { padding: 90px 0px; width: 100%;}
 	.About_sec .Tabside ul { list-style: none; margin: 0px; padding-bottom: 59px; }
@@ -153,7 +153,7 @@ header.smaller .Navigation li { height: 60px; }
 	.About_sec .Tabside .TabImage .img2 img { padding: 5px; border: solid 1px #ececec; background: #fff;  }
 	.About_sec .Tabside .Description { width: 54.3%; float: right; text-align: left; margin-top: -6px;}
 	.About_sec .Tabside .Description h3 { font-size: 24px; color: #ff9000; margin: 0px; text-transform: uppercase; font-family:'Open Sans'; line-height: 29px; }
-	.About_sec .Tabside .Description p { padding: 21px 0px 4px 0px; font-size: 14px; color: #979797; margin: 0px; font-family:'Open Sans'; line-height: 25px; }
+	.About_sec .Tabside .Description p { padding: 21px 0px 4px 0px; font-size: 14px; color: #525252; margin: 0px; font-family:'Open Sans'; line-height: 25px; }
 	.About_sec .Tabside .Description p .cyan { font-size: 16px; color: #08c2ff; }
 
 
@@ -190,7 +190,7 @@ header.smaller .Navigation li { height: 60px; }
 	.Product_sec { padding: 115px 0px 88px 0px ; width: 100%; overflow: hidden; }
 	.Product_sec .Center { max-width: 1100px; margin: auto; overflow: hidden; text-align: center; }
 	.Product_sec h2 { font-size: 56px; color: #000; font-family: 'Oswald', sans-serif; font-weight: 400; margin: 0px; text-transform: uppercase; line-height: 60px; letter-spacing: -0.4px; }
-	.Product_sec p { padding: 24px 0px 35px 0px; font-size: 14px; color: #979797; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
+	.Product_sec p { padding: 24px 0px 35px 0px; font-size: 14px; color: #525252; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
 	.Product_sec .Line { border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto; }
 	.Product_sec .Tabside { padding: 90px 0px; width: 100%;}
 	.Product_sec .Tabside ul { list-style: none; margin: 0px; padding-bottom: 59px; }
@@ -204,7 +204,7 @@ header.smaller .Navigation li { height: 60px; }
 	.Product_sec .Tabside .TabImage .img2 img { padding: 5px; border: solid 1px #ececec; background: #fff;  }
 	.Product_sec .Tabside .Description { width: 54.3%; float: right; text-align: left; margin-top: -6px;}
 	.Product_sec .Tabside .Description h3 { font-size: 24px; color: #ff9000; margin: 0px; text-transform: uppercase; font-family:'Open Sans'; line-height: 29px; }
-	.Product_sec .Tabside .Description p { padding: 21px 0px 4px 0px; font-size: 14px; color: #979797; margin: 0px; font-family:'Open Sans'; line-height: 25px; }
+	.Product_sec .Tabside .Description p { padding: 21px 0px 4px 0px; font-size: 14px; color: #525252; margin: 0px; font-family:'Open Sans'; line-height: 25px; }
 	.Product_sec .Tabside .Description p .cyan { font-size: 16px; color: #08c2ff; }
 
 	
@@ -229,10 +229,10 @@ header.smaller .Navigation li { height: 60px; }
 		.Get_sec .Leftside { padding-top: 12px; width: 48.2%; float: left; }
 		.Get_sec .Leftside fieldset { padding: 0px; margin: 0px; }
 		.Get_sec .Leftside p { padding: 0px; margin: 0px 0px 25px 0px;  }
-		.Get_sec .Leftside input.field { padding: 18px 20px 17px 20px; font-size: 14px; color: #979797; font-family: 'Open Sans', sans-serif; font-weight: 400; border: 0px; width: 100%; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424;
+		.Get_sec .Leftside input.field { padding: 18px 20px 17px 20px; font-size: 14px; color: #525252; font-family: 'Open Sans', sans-serif; font-weight: 400; border: 0px; width: 100%; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424;
 		-o-box-shadow: 0px 2px 6px 0px #242424; border-radius: 0px; }
 		.Get_sec .Leftside input:focus { outline: none;}
-		.Get_sec .Leftside textarea { padding: 18px 20px 17px 20px; font-size: 14px; color: #979797; font-family: 'Open Sans', sans-serif; font-weight: 400; border: 0px; width: 100%; height: 156px; resize:none; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424; -o-box-shadow: 0px 2px 6px 0px #242424; border-radius: 0px; }
+		.Get_sec .Leftside textarea { padding: 18px 20px 17px 20px; font-size: 14px; color: #525252; font-family: 'Open Sans', sans-serif; font-weight: 400; border: 0px; width: 100%; height: 156px; resize:none; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424; -o-box-shadow: 0px 2px 6px 0px #242424; border-radius: 0px; }
 		.Get_sec .Leftside textarea:focus { outline: none;}
 		.Get_sec .Leftside .button { padding: 16px 0px 17px 0px; margin-top: -3px; font-size: 14px; color: #e9ecee; font-family: 'Open Sans', sans-serif; font-weight: 700; text-align: center; background: #e2850a; border: 0px; text-transform:uppercase; width: 100%; cursor: pointer; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424; -o-box-shadow: 0px 2px 6px 0px #242424; border-radius: 0px; transition: all 0.3s ease;}
 		.Get_sec .Leftside .button:hover { background: #2d2d2d; color: #fff;}
